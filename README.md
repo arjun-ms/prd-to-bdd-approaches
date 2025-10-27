@@ -138,20 +138,6 @@ prd_to_bdd_approaches/
 ---
 
 
-## 📝 Output Files
-
-Each approach generates standard output files:
-
-| File | Description |
-|------|-------------|
-| `bdd_output_raw_approachN.json` | Original scenarios before deduplication |
-| `bdd_output_deduped_approachN.json` | Cleaned scenarios after deduplication |
-| `duplicates_report_XX.csv` | Detailed duplicate pairs report (Approaches 1, 3) |
-| `nli_comparison_results.csv` | NLI analysis results (Approach 2) |
-
----
-
-
 ## 📚 Documentation
 
 Each approach has detailed documentation in its respective folder:
