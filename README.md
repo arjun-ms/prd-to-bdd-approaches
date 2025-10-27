@@ -30,6 +30,9 @@ prd_to_bdd_approaches/
 | **Approach 3** | Cosine Similarity | 90% | ⚡ Fast | 💰 Low | ⭐⭐⭐⭐ | Production |
 | **Approach 4** | LLM-Based | N/A | 🐢 Slower | 💰💰💰 High | ⭐⭐⭐⭐⭐ | Critical Projects |
 
+
+<img width="1297" height="390" alt="image" src="https://github.com/user-attachments/assets/340a2e15-28c7-4525-b3b0-c47055324e13" />
+
 ## 📊 Detailed Approach Overview
 
 ### Approach 1: Cosine Similarity (80% Threshold)
